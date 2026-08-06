@@ -1,0 +1,24 @@
+{
+  "name": "Kiosco UNGS",
+  "short_name": "Kiosco UNGS",
+  "description": "Sistema de Punto de Venta y Control de Stock para Kiosco UNGS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#003B70",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
